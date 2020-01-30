@@ -25,4 +25,4 @@ Learning with application to Fetal Ultrasound_**](https://arxiv.org/abs/1908.078
 
 If you make use of the code, please cite the paper in any resulting publications.
 
-This code (residual_def.py) uses the residual unit from toolkit DLTK (https://dltk.github.io/). Please install the DLTK before using residual_modef.py
+This code (residual_def.py) uses the residual unit from toolkit DLTK (https://dltk.github.io/). Please install the DLTK before using residual_def.py
