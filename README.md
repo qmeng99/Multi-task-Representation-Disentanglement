@@ -1,7 +1,8 @@
 # Multi-task-Representation-Disentanglement
 
 Code for paper "Representation Disentanglement for Multi-task
-Learning with application to Fetal Ultrasound"
+Learning with application to Fetal Ultrasound". We show the experiments of synthetic data in this code.
+
 
 <p align="left">
     <img src="images/method.png" width="85%" height="85%">
@@ -10,8 +11,6 @@ Learning with application to Fetal Ultrasound"
 [**_Representation Disentanglement for Multi-task
 Learning with application to Fetal Ultrasound_**](https://arxiv.org/abs/1908.07885)
 
-
-We show the experiments of synthetic data in this code.
 
 ```
 @inproceedings{mengMultitaskRepresentationDisentanglement,
